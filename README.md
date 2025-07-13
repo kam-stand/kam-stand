@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [ProNotion: A all in one productive task organizer](https://github.com/kam-stand/ProNotion)
 
-- 🌱 I’m currently learning **Spring Boot, Spring Security**
+- 🌱 I’m currently learning **Spring Security, API GateWay**
 
-- 👯 I’m looking to collaborate on [PCAP-CMD: A network traffic analyzer built using D](https://github.com/kam-stand/PCAP)
+- 👯 I’m looking to collaborate on [Shokify: A website built on microservice architecture](https://github.com/kam-stand/Shokify)
 
 - 🤝 I’m looking for help with [Connect: A social media platform centered around privacy](https://github.com/ZohebHasan/Connect)
 
