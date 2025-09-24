@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kam Hassan</h1>
-<h3 align="center">A passionate Java and web developer with a focus on Spring boot.</h3>
+<h3 align="center">A passionate programmer trying to make a positive impact through code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kam-stand&label=Profile%20views&color=0e75b6&style=flat" alt="kam-stand" /> </p>
 
